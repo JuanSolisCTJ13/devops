@@ -1,2 +1,22 @@
 Hola 
 Cómo les va
+
+El proceso que tenemos en la empresa nos ayudará a desarrollar software de una mejor manera.
+
+Primero cambiemos el idioma a Inglés...Got it!
+
+At first, if you're reading this, you'll understand that the first step for devops is GIT. 
+
+Now, the second step is to understand the docker architecture.
+
+Docker is a software tool that does application containerization which is light in weight and easier to deploy than the VM File.
+
+Docker consists of 5 layers:
+
+- First comes the hardware, that is the laptop or the desktop computer.
+- Second. Operating system.
+- Third. Docker software that you will install. Suppose you're using Windows. If u need an Ubuntu environment you could simply download the Ubuntu container form ther Docker engine via command.
+- Next, you have other external libraries installedfor your code to run.
+- At the last comes your application where the main code resides.
+
+
